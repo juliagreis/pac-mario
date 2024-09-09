@@ -1,6 +1,7 @@
 # pac-mario
 
 Jogo do PAC-MAN temático do Mario Bross, desenvolvido em C++ e usando a biblioteca SFML.
+Trabalho da matéria de PROGRAMAÇÃO| do curso de Ciência da Computação da UFV. 
 
 
 
