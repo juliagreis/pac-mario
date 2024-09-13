@@ -5,7 +5,7 @@ Trabalho da matéria de PROGRAMAÇÃO | do curso de Ciência da Computação da 
 
 
 
-Para jogar, baixe a biblioteca SFML. Baixe todos os arquivos da pasta ZIP e compile no terminal g++ pac-mario.cpp
+Para jogar, baixe a biblioteca SFML. Baixe todos os arquivos da pasta ZIP e compile no terminal g++ pac-mario.cpp -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
 
 COMO JOGAR:
 Ao entrar no menu, selecione o personagem que preferir. Nesse momento, o jogo se iniciará. Seu objetivo é coletar todas as moedas do mapa, sendo possível acompanhar seu progresso na parte superior da tela. Lembre-se: você possui três vidas, então evite colisões com os "Goombas".
